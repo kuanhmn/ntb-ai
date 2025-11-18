@@ -1,0 +1,6 @@
+{
+  "id": "deepseek",
+  "kind": "ai",
+  "roles": ["analysis"],
+  "version": "2.1.0"
+}

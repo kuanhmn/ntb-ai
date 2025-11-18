@@ -1,0 +1,10 @@
+engine_id: gemini_web
+enabled: false
+type: openai_compatible
+base_url: ""
+auth_mode: "userpass"
+username: ""
+password: ""
+session_cookie: ""
+model_default: "gemini-web"
+timeout_sec: 60

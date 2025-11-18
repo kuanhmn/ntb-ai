@@ -1,0 +1,4 @@
+id: ds_web
+name: DeepSeek Web Engine
+type: engine
+description: OpenAI-compatible router for DeepSeek Web

@@ -1,0 +1,6 @@
+{
+  "id": "gpt",
+  "kind": "ai",
+  "roles": ["brain"],
+  "version": "2.1.0"
+}

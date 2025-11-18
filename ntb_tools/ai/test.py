@@ -1,0 +1,1 @@
+print('ai tools ok')
