@@ -1,4 +1,0 @@
-id: gemini_web
-name: Gemini Web Engine
-type: engine
-description: OpenAI-compatible router for Gemini Web

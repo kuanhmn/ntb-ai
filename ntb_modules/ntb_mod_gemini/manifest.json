@@ -1,7 +1,0 @@
-{
-  "id": "gemini",
-  "kind": "ai",
-  "roles": ["editor", "chat"],
-  "version": "2.1.0"
-}
-
